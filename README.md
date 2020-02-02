@@ -15,13 +15,6 @@ The DApp is meant for offline markets where they're falling behind in the race a
 A common reward programme will help these markets to generate more transactions, in mutual interest.
 
 
-## How this works
-
-Information about each animal and the subjects in a kingdom is loaded from
-the creating user's Gaia storage. Images of the animal persona and territories
-are loaded from the instance of the app where they were created.
-
-
 ## How to Setup
 
 Clone the repo, cd to the project directory, run:
