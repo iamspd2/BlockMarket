@@ -1,14 +1,19 @@
 # BlockMarket: A Decentralized Customer Loyalty Reward App
-This app allows a user to create their own animal kingdom. They create their own
-animal persona and then populate their kingdom with rulers or subjects of other kingdoms
-either on the same app or on other forks of this app.
 
-To add an animal to your kingdom, you can enter the animal's URL into the box.
+40% of company revenue is generated from repeated customers. Hence, customer retention is essential.
 
-Each app can have different animals and territories. Animals and territories that only exist
-in one instance of this app (a "planet") can be used in other instances.
+However, the customer loyalty programmes have many loopholes: complexities, low redemption rates, lack of transparency, brand specific offers.
 
-You can browse kingdoms on other instances and forks of this apps from the other kingdom section.
+We strive to overcome this by introducing a single transactional currency: $ilicoin.
+
+Customers can use their reward points anywhere, anytime to avail an offer as per their choice of brand.
+
+This will result in more customer interest and full transparency will be maintained for every party involved.
+
+The DApp is meant for offline markets where they're falling behind in the race against online marketplace strategies.
+
+A common reward programme will help these markets to generate more transactions, in mutual interest.
+
 
 ## How this works
 
@@ -40,3 +45,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
+## DApp Snapshots
+
+![Image description](link-to-image)
+
