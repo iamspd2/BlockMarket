@@ -50,3 +50,9 @@ Your app is ready to be deployed!
 
 ![Image description](https://github.com/iamspd2/BlockMarket/blob/master/images/1.png)
 
+![Image description](https://github.com/iamspd2/BlockMarket/blob/master/images/2.png)
+
+![Image description](https://github.com/iamspd2/BlockMarket/blob/master/images/3.png)
+
+![Image description](https://github.com/iamspd2/BlockMarket/blob/master/images/4.png)
+
